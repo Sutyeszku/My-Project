@@ -15,3 +15,6 @@
     >git commit -m "first commit"
 
 ## Távoli repoval valo kapcsolás
+
+- Összekapcsolás
+    >git remote add origin https://token@github.com/Sutyeszku/My-Project.git
