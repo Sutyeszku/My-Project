@@ -18,3 +18,5 @@
 
 - Összekapcsolás
     >git remote add origin https://token@github.com/Sutyeszku/My-Project.git
+
+- Új verzió
